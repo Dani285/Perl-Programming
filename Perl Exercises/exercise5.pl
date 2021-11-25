@@ -16,3 +16,4 @@ sub Itself(){
 
 my $itself = &Itself();
 print $itself;
+close(FH);
