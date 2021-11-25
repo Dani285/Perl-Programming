@@ -5,7 +5,6 @@ use warnings;
 
 # simple_shell
 # This script is just an example of a very simple "shell" program.
-# Cameron Hayne (macdev@hayne.net)  December 2005
 
 my $version = 0.01;
 
