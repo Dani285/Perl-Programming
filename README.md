@@ -1,7 +1,7 @@
 # Perl-Programming
 Learn Pearl Programming by Examples
 
-Task 1: Draw a "Christmas tree" in the center of the screen using a loop
+Task 1: Draw a "Christmas tree" in the center of the screen using loops.
 
 Task 2: Filter out email addresses from a text file (or saved webpage) and display them on the screen.
 
