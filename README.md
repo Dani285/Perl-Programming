@@ -15,7 +15,7 @@ Task 6: Write a perl script that prints some information about a constantly upda
 
 Task 7: Modify the  10ss.pl   script so that for a selected linux command, in the input "man selected linux command", write some brief information about that command, and for other input "man not selected linux command", write "this is not ready, we are working on it" .
 
-Task 8: is going to be a decode task with decoded.zip file I'll attach this file of course, and inside the decoded.zip file you need to search for students_name.txt file, open the file and the task is the following:Decode decode.txt file,just the first paragraph. This can be done in any way, with or without a programming language. The text was written in English.
+Task 8: is going to be a decode task with decoded.zip file I'll attach this file of course, and inside the decoded.zip file you need to search for students_name.txt file, open the file and the task is the following:Decode task.txt file,just the first paragraph. This can be done in any way, with or without a programming language. The text was written in English.
 
 Task 9: Modify the words.pl script below so that the order of the words to be translated is random and, for each incorrect answer, reloads the incorrectly answered question in the associative array.
 
