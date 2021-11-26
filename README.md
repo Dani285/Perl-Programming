@@ -5,7 +5,7 @@ Task 1: Draw a "Christmas tree" in the center of the screen using a loop
 
 Task 2: Filter out email addresses from a text file (or saved webpage) and display them on the screen.
 
-Task 3 : The frequency of words (strings) retrieved from a saved text file (such as a novel at https://www.gutenberg.org/) is determined.
+Task 3 : Write a perl script which prints the frequency of words (strings) retrieved from a saved text file (such as a novel at https://www.gutenberg.org/) is determined.
 
 Task 4: On a saved web page, use a perl program to replace all the images with a specific image of your choice.
 
