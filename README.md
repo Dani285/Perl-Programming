@@ -1,5 +1,5 @@
 # Perl-Programming
-Learn Pearl Programming by Examples
+Learn Perl Programming by Examples
 
 Task 1: Draw a "Christmas tree" in the center of the screen using loops.
 
