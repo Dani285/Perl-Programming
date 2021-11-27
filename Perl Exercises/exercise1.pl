@@ -15,7 +15,7 @@ for ($i=0;$i<10;$i++)     # lt- less than(<) this loop handles the rows
 }
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i-23;$k--)      
+ for($k=10;$k>$i-22;$k--)      
  {
 	print " ";		
  }
@@ -27,7 +27,7 @@ for ($i=0;$i<1;$i++)
 print "\n";
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i-23;$k--)      
+ for($k=10;$k>$i-22;$k--)      
  {
 	print " ";		
  }
@@ -39,7 +39,7 @@ for ($i=0;$i<1;$i++)
 print "\n";
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i-23;$k--)      
+ for($k=10;$k>$i-22;$k--)      
  {
 	print " ";		
  }
@@ -51,7 +51,7 @@ for ($i=0;$i<1;$i++)
 print "\n";
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i-23;$k--)      
+ for($k=10;$k>$i-22;$k--)      
  {
 	print " ";		
  }
