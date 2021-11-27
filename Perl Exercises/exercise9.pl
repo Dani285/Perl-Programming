@@ -9,7 +9,9 @@ use strict;
 use warnings;
 use List::Util qw(shuffle);        #this is an alternative solution
 
-#Practice foreign words
+# Practice foreign words
+
+# srand();
 if ($#ARGV != 0){ 
     print "Usage $0 <words.txt>\n";
     exit(8);
@@ -36,11 +38,12 @@ while(<IN>){
 
 while ($#list>-1){
 	@list = shuffle(@list);
-	print "Translate to Spanish: $list[0]->{questions}\n";
+	# my $rnd = int(rand(15))+1;
+	print "Translate to Spanish: $list[0]->{questions}\n";      #print "Translate to Spanish: $list[$rnd]->{questions}\n";
 	print "My answer:";
 	my $answers = <STDIN>; 
 	chomp($answers);
-	   if ($answers eq $list[0]->{answers}) 
+	   if ($answers eq $list[0]->{answers})                    #if($answers eq $list[$rnd]->{answers})
 	      {
 		print "Right answer the answer was $list[0]->{answers}\n\n";
 		shift(@list);
