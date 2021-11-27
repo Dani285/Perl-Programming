@@ -1,9 +1,9 @@
 #!/usr/ bin/perl -w
 
 #The usage of this script:
-1. Open Terminal
-2. Download words.txt file
-3. Type the following to the terminal: perl exercise9.pl words.txt
+#1. Open Terminal
+#2. Download words.txt file
+#3. Type the following to the terminal: perl exercise9.pl words.txt
 
 use strict;
 use warnings;
