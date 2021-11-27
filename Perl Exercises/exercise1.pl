@@ -1,9 +1,9 @@
 #!/usr/bin/perl -w
-#Solution for Task 1
+#Solution to Task 1
 
 for ($i=0;$i<10;$i++)     # lt- less than(<) this loop handles the rows
 {		                 
- for($k=10;$k>$i+1;$k--)      # this loop handles spaces
+ for($k=10;$k>$i-24;$k--)      # this loop handles spaces
  {
 	print " ";		
  }
@@ -15,7 +15,7 @@ for ($i=0;$i<10;$i++)     # lt- less than(<) this loop handles the rows
 }
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i+2;$k--)      
+ for($k=10;$k>$i-23;$k--)      
  {
 	print " ";		
  }
@@ -27,7 +27,7 @@ for ($i=0;$i<1;$i++)
 print "\n";
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i+2;$k--)      
+ for($k=10;$k>$i-23;$k--)      
  {
 	print " ";		
  }
@@ -39,7 +39,7 @@ for ($i=0;$i<1;$i++)
 print "\n";
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i+2;$k--)      
+ for($k=10;$k>$i-23;$k--)      
  {
 	print " ";		
  }
@@ -51,7 +51,7 @@ for ($i=0;$i<1;$i++)
 print "\n";
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i+2;$k--)      
+ for($k=10;$k>$i-23;$k--)      
  {
 	print " ";		
  }
@@ -63,7 +63,7 @@ for ($i=0;$i<1;$i++)
 print "\n";
 for ($i=0;$i<1;$i++)     
 {		                 
- for($k=10;$k>$i+9;$k--)      
+ for($k=10;$k>$i-15;$k--)      
  {
 	print " ";		
  }
@@ -72,3 +72,4 @@ for ($i=0;$i<1;$i++)
      print "* ";
  }
 }
+print "\n";
