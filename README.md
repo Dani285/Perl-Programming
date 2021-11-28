@@ -22,5 +22,3 @@ Task 9: Modify the words.pl script below so that the order of the words to be tr
 
 Task 10: Write a perl script that generates the Kolakosi series and specifies the frequency of occurrence of given string.
 You can find information about the series on the Internet by searching for the words "Kolakosi series".
-
-Create a Currency Converter which convert currency from one type to another.
