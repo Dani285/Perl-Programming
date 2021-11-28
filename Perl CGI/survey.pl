@@ -103,7 +103,7 @@ print &percent('gender_na'), "</td></tr>\n";
 print "</table>\n";
 
 print "<p>Age:\n";
-print "<table border=\”1\”><tr><th>Under 18</th><td>\n";
+print "<table border=\"1\"><tr><th>Under 18</th><td>\n";
 print &percent('age_under18'), "</td></tr>\n";
 print "<tr><th>18 to 34</th><td>\n";
 print &percent('age_18to34'), "</td></tr>\n";
@@ -116,7 +116,7 @@ print &percent('age_na'), "</td></tr>\n";
 print "</table>\n";
 
 print "<p>What kind of job you are looking for?\n";
-print "<table border=\”1\”><tr><th>Programmer</th><td>\n";
+print "<table border=\"1\"><tr><th>Programmer</th><td>\n";
 print &percent('job_programmer'), "</td></tr>\n";
 print "<tr><th>Manager</th><td>\n";
 print &percent('job_manager'), "</td></tr>\n";
