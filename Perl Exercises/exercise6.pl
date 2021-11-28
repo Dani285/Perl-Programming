@@ -8,7 +8,7 @@ use LWP::Simple;            # Using word wide web tools
 
 my $url = "https://covid19.who.int/";
 my $contents = get($url) or die("Couldn't fetch the data");      # getting the data
-my @matches;
+my @matches = ();
 
 # Go to check the contents
             
