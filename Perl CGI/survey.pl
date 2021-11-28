@@ -1,4 +1,5 @@
 #!usr/bin/perl -w
+#You need to install the CGI modull first
 
 use strict;
 use CGI;
