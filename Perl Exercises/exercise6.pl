@@ -4,7 +4,6 @@
 
 use strict;
 use warnings;
-
 use LWP::Simple;            # Using word wide web tools
 
 my $url = "https://covid19.who.int/";
@@ -20,4 +19,4 @@ my @matches;
 foreach my $data(@matches){                           #s/<.*?>//gs
   $data =~s/<.*?>//gs;   #for each matches we remove html tags, and just the plain text is the output
   print ("$data\n");
-} 
+}
