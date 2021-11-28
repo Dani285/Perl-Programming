@@ -1,6 +1,7 @@
 #!usr/bin/perl
 
 #Guest Book with Perl CGI
+#You need to install a CGI modull first
 
 use strict;
 use warnings;
