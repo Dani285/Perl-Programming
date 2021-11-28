@@ -2,7 +2,7 @@
 
 use Person;
 
-$obj = new Person("Barney","Stinson",202-555-0107)
+$obj = new Person("Barney","Stinson",202-555-0107);
 
 $surname = $obj->getSurname();
 $lastName = $obj->getLastName();
