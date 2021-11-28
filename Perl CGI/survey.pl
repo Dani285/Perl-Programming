@@ -5,6 +5,7 @@ use strict;
 use CGI;
 use CGI::Carp qw(fatalsToBrowser);
 use CGI qw(:standard);
+use CGI ':standard';
 use HTML::Entities;
 
 my $results = 'surveyresult.txt';
