@@ -1,4 +1,4 @@
-#!usr/bin/perl
+#!usr/bin/perl -T
 
 #Guest Book with Perl CGI
 #You need to install a CGI modull first
