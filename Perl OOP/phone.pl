@@ -11,7 +11,7 @@ print "$surname $lastName first name is: $surname, and his phone number is $phon
 
 # Set the first name using helper function
 
-$obj->setSurname("Chandler");            #Optional you can comment it if you disturbs you
+$obj->setSurname("Chandler");            #Optional you can comment it if disturbs you
 $obj->setLastName("Bing");      
 $obj->setPhoneNumber(732-280-1435);
 
